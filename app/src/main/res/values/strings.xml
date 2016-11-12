@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Lincoln Park Tour</string>
+    <string-array name="tab_titles">
+        <item>Night Life</item>
+        <item>Food</item>
+        <item>To Do</item>
+        <item>The Sights</item>
+    </string-array>
+    <string-array name="wexford">
+        <item>Wexord Inn</item>
+        <item>A local Dive</item>
+        <item>https://www.google.com/maps/place/Wexford+Inn/@40.923624,-74.3054903,17z</item>
+    </string-array>
+    <string-array name="mothers">
+        <item>The Grasshoper</item>
+        <item>College kids and 40 year olds dancing together!</item>
+        <item>https://www.google.com/maps/place/Grasshopper+Too/@40.9237366,-74.3733413,12z</item>
+    </string-array>
+    <string-array name="hopper">
+        <item>Mothers</item>
+        <item>Where you go to get in a fight</item>
+        <item>https://www.google.com/maps/place/Mothers+Ale+House/@40.9146487,-74.2670644,17</item>
+    </string-array>
+
+    //Things to see
+    <string-array name="clocktower">
+        <item>The Clocktower</item>
+        <item>A 9/11 memorial.</item>
+        <item>https://www.google.com/maps/place/Wexford+Inn/@40.923624,-74.3054903,17z</item>
+    </string-array>
+    <string-array name="train">
+        <item>The Train Station</item>
+        <item>Go anywhere!</item>
+        <item>https://www.google.com/maps/place/Grasshopper+Too/@40.9237366,-74.3733413,12z</item>
+    </string-array>
+    <string-array name="museum">
+        <item>LP Museum</item>
+        <item>Get to know the history of Beavertown!</item>
+        <item>https://www.google.com/maps/place/Mothers+Ale+House/@40.9146487,-74.2670644,17z</item>
+    </string-array>
+
+</resources>
